@@ -1,0 +1,40 @@
+INTRODUCTION
+
+Web scraping tools are software (i.e., bots) programmed to sift through databases and extract information. A variety of bots types are used, many being fully customizable to:
+•	Recognize unique HTML site structures
+•	Extract and transform content
+•	Store scraped data
+•	Extract data from APIs
+Since all scraping bots have the same purpose—to access site data—it can be difficult to distinguish between legitimate and malicious bots.
+
+Web scraping is used for contact scraping, and as a component of applications used for web indexing, web mining and data mining, online price change monitoring and price comparison, product review scraping (to watch the competition), gathering real estate listings, weather data monitoring, website change detection, research, tracking online presence and reputation, web mash up and, web data integration.
+
+
+
+REQUIREMENTS
+
+Software Requirements:
+
+•	Pycharm Professional/Community Version
+
+Hardware Requirements: 
+
+Windows:
+•	Microsoft Windows 10/8/7/Vista/2003/XP (incl.64-bit)
+•	1 GB RAM minimum
+•	2 GB RAM recommended
+•	1024x768 minimum screen resolution
+•	Python 2.4 or higher, Jython, PyPy or IronPython
+
+Mac:
+•	Mac OS X 10.8 or higher
+•	1 GB RAM minimum
+•	2 GB RAM recommended
+•	Python 2.4 or higher, Jython, PyPy or IronPython
+
+Linux:
+•	512 MB RAM minimum, 1 GB RAM recommended
+•	1024x768 minimum screen resolution
+•	Python 2.4 or higher, Jython, PyPy or IronPython
+
+
